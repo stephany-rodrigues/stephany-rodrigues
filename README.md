@@ -60,6 +60,10 @@
 
 ###
 
-![Snake animation](https://github-contribution-grid-snake.vercel.app/api?github_user=stephany-rodrigues&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stephany-rodrigues/stephany-rodrigues/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stephany-rodrigues/stephany-rodrigues/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/stephany-rodrigues/stephany-rodrigues/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ###
